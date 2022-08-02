@@ -3,7 +3,7 @@ Daily progress of PDB synchronization
 
 |    Date    | Number of New PDB files | Number of Changed PDB files | Number of New Sequences |                       Notes                      |
 |:----------:|:-----------------------:|:---------------------------:|:-----------------------:|:------------------------------------------------:|
-| 2022-07-21 |           1220          |             738             |           2273          | First synchronization after DJ's (on 2022-03-31) |
+| 2022-07-21 |           1220          |             738             |           2273          |                                                  |
 | 2022-07-22 |            0            |              0              |            0            |                                                  |
 | 2022-07-23 |            0            |              0              |            0            |                                                  |
 | 2022-07-24 |            0            |              0              |            0            |                                                  |
