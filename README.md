@@ -19,6 +19,13 @@ Daily progress of PDB synchronization
 
 ## Lists of New/Changed PDB files/New Sequences
 
+### 2022-07-21
+
+[lists_2022-07-21.zip](https://github.com/AndreaSoltes/PDB_synchronization/files/9241871/lists_2022-07-21.zip)
+
+### 2022-07-27
+
+[lists_2022-07-27.zip](https://github.com/AndreaSoltes/PDB_synchronization/files/9241878/lists_2022-07-27.zip)
 
 # Synchronizing PDB database
 
@@ -36,7 +43,7 @@ Daily progress of PDB synchronization
 
 `./prank analyze fasta-masked datasets/pdb-$(date +%F).ds -o datasets/fastas-$(date +%F)/ &> datasets/fastas-$(date +%F).log`
 
-## Generate chunks
+## Generate chunks of New Sequences
 
 `../../generate_chunks_actual.py > chunks-$(date +%F).log`
 
