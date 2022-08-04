@@ -22,11 +22,15 @@ Daily progress of PDB synchronization
 
 ### 2022-07-21
 
-[lists_2022-07-21.zip](https://github.com/AndreaSoltes/PDB_synchronization/files/9241871/lists_2022-07-21.zip)
+[lists_2022-07-21.zip](https://github.com/AndreaSoltes/PDB_synchronization/files/9257025/lists_2022-07-21.zip)
 
 ### 2022-07-27
 
-[lists_2022-07-27.zip](https://github.com/AndreaSoltes/PDB_synchronization/files/9241878/lists_2022-07-27.zip)
+[lists_2022-07-27.zip](https://github.com/AndreaSoltes/PDB_synchronization/files/9257029/lists_2022-07-27.zip)
+
+## 2022-08-03
+
+[lists_2022-08-03.zip](https://github.com/AndreaSoltes/PDB_synchronization/files/9257035/lists_2022-08-03.zip)
 
 # Synchronizing PDB database
 
