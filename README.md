@@ -17,6 +17,7 @@ Daily progress of PDB synchronization
 | 2022-08-01 |            0            |              0              |            0            |                                                  |
 | 2022-08-02 |            -            |              -              |            -            |           Problem with synchronization!          |
 | 2022-08-03 |           274           |             232             |           710           |           Problem with synchronization!          |
+| 2022-08-04 |            0            |              0              |            0            |                                                  |
 
 ## Lists of New/Changed PDB files/New Sequences
 
