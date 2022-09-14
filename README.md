@@ -11,6 +11,7 @@ Daily progress of PDB synchronization
 | 2022-08-24 |           279           |             713             |           855           |                                                  |
 | 2022-08-31 |           253           |             153             |           661           |                                                  |
 | 2022-09-07 |           254           |             232             |           613           |                                                  |
+| 2022-09-14 |           227           |             266             |           719           |                                                  |
 
 ## Lists of New/Changed PDB files/New Sequences
 
@@ -45,6 +46,10 @@ Daily progress of PDB synchronization
 ## 2022-09-07
 
 [lists_2022-09-07.zip](https://github.com/AndreaSoltes/PDB_synchronization/files/9504637/lists_2022-09-07.zip)
+
+## 2022-09-14
+
+[lists_2022-09-14.zip](https://github.com/AndreaSoltes/PDB_synchronization/files/9565258/lists_2022-09-14.zip)
 
 # Synchronizing PDB database
 
