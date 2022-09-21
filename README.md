@@ -1,5 +1,5 @@
 # PDB_synchronization
-Daily progress of PDB synchronization
+Weekly progress of PDB synchronization
 
 |    Date    | Number of New PDB files | Number of Changed PDB files | Number of New Sequences |                       Notes                      |
 |:----------:|:-----------------------:|:---------------------------:|:-----------------------:|:------------------------------------------------:|
