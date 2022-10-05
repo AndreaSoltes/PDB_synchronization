@@ -14,6 +14,7 @@ Weekly progress of PDB synchronization
 | 2022-09-14 |      227           |        266             |      719           |                      |                          |       |
 | 2022-09-21 |      224           |        157             |      619           |         240          |            176           | Download:2022-09-16 |
 | 2022-09-28 |      278           |        223             |      885           |         293          |            236           |       |
+| 2022-10-05 |      236           |        338             |      915           |                   |                       |       |
 
 ## Lists of New/Changed PDB files/New Sequences
 
@@ -60,6 +61,10 @@ Weekly progress of PDB synchronization
 ## 2022-09-28
 
 [lists_2022-09-28.zip](https://github.com/AndreaSoltes/PDB_synchronization/files/9664593/lists_2022-09-28.zip)
+
+## 2022-10-05
+
+[lists_2022-10-05.zip](https://github.com/AndreaSoltes/PDB_synchronization/files/9717403/lists_2022-10-05.zip)
 
 # Synchronizing PDB database
 
