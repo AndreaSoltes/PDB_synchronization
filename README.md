@@ -15,6 +15,7 @@ Weekly progress of PDB synchronization
 | 2022-09-21 |      224           |        157             |      619           |         240          |            176           | Download:2022-09-16 |
 | 2022-09-28 |      278           |        223             |      885           |         293          |            236           |       |
 | 2022-10-05 |      236           |        338             |      915           |         250          |            361           |       |
+| 2022-10-16 |      449           |        213             |      711           |                    |                       |       |
 
 ## Lists of New/Changed PDB files/New Sequences
 
