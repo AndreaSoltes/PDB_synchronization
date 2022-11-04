@@ -21,63 +21,33 @@ Weekly progress of PDB synchronization
 
 ## Lists of New/Changed PDB files/New Sequences
 
-### 2022-07-21
-
 [lists_2022-07-21.zip](https://github.com/AndreaSoltes/PDB_synchronization/files/9257025/lists_2022-07-21.zip)
-
-### 2022-07-27
 
 [lists_2022-07-27.zip](https://github.com/AndreaSoltes/PDB_synchronization/files/9257029/lists_2022-07-27.zip)
 
-## 2022-08-03
-
 [lists_2022-08-03.zip](https://github.com/AndreaSoltes/PDB_synchronization/files/9257035/lists_2022-08-03.zip)
-
-## 2022-08-10
 
 [lists_2022-08-10.zip](https://github.com/AndreaSoltes/PDB_synchronization/files/9299993/lists_2022-08-10.zip)
 
-## 2022-08-17
-
 [lists_2022-08-17.zip](https://github.com/AndreaSoltes/PDB_synchronization/files/9358405/lists_2022-08-17.zip)
-
-## 2022-08-24
 
 [lists_2022-08-24.zip](https://github.com/AndreaSoltes/PDB_synchronization/files/9417466/lists_2022-08-24.zip)
 
-## 2022-08-31
-
 [lists_2022-08-31.zip](https://github.com/AndreaSoltes/PDB_synchronization/files/9460556/lists_2022-08-31.zip)
-
-## 2022-09-07
 
 [lists_2022-09-07.zip](https://github.com/AndreaSoltes/PDB_synchronization/files/9504637/lists_2022-09-07.zip)
 
-## 2022-09-14
-
 [lists_2022-09-14.zip](https://github.com/AndreaSoltes/PDB_synchronization/files/9565258/lists_2022-09-14.zip)
-
-## 2022-09-21
 
 [lists_2022-09-21.zip](https://github.com/AndreaSoltes/PDB_synchronization/files/9615272/lists_2022-09-21.zip)
 
-## 2022-09-28
-
 [lists_2022-09-28.zip](https://github.com/AndreaSoltes/PDB_synchronization/files/9664593/lists_2022-09-28.zip)
-
-## 2022-10-05
 
 [lists_2022-10-05.zip](https://github.com/AndreaSoltes/PDB_synchronization/files/9717403/lists_2022-10-05.zip)
 
-## 2022-10-16
-
 [lists_2022-10-16.zip](https://github.com/AndreaSoltes/PDB_synchronization/files/9800182/lists_2022-10-16.zip)
 
-## 2022-10-19
-
 [lists_2022-10-19.zip](https://github.com/AndreaSoltes/PDB_synchronization/files/9818600/lists_2022-10-19.zip)
-
-## 2022-10-26
 
 [lists_2022-10-26.zip](https://github.com/AndreaSoltes/PDB_synchronization/files/9868397/lists_2022-10-26.zip)
 
