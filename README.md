@@ -61,6 +61,8 @@ Weekly progress of PDB synchronization
 
 [lists_2022-11-16.zip](https://github.com/AndreaSoltes/PDB_synchronization/files/10040108/lists_2022-11-16.zip)
 
+[lists_2022-11-23.zip](https://github.com/AndreaSoltes/PDB_synchronization/files/10115992/lists_2022-11-23.zip)
+
 # Synchronizing PDB database
 
 `rsync -rlpt -avic -z --delete rsync.ebi.ac.uk::pub/databases/pdb/data/structures/divided/pdb/ ./pdb > download-pdb-$(date +%F).log`
