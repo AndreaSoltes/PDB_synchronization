@@ -27,6 +27,7 @@ Weekly progress of PDB synchronization
 | 2022-12-14 |      265           |        214             |      1172          |         279          |            226           |       |
 | 2022-12-21 |      217           |        697             |      956           |         234          |            738           |       |
 | 2022-01-02 |      232           |        172             |      888           |         248          |            183           |       |
+| 2022-01-04 |       44           |        102             |      242           |                   |                       |       |
 
 ## Lists of New/Changed PDB files/New Sequences
 
@@ -77,6 +78,8 @@ Weekly progress of PDB synchronization
 [lists_2022-12-21.zip](https://github.com/AndreaSoltes/PDB_synchronization/files/10276554/lists_2022-12-21.zip)
 
 [lists_2023-01-02.zip](https://github.com/AndreaSoltes/PDB_synchronization/files/10331893/lists_2023-01-02.zip)
+
+[lists_2023-01-04.zip](https://github.com/AndreaSoltes/PDB_synchronization/files/10350857/lists_2023-01-04.zip)
 
 # Synchronizing PDB database
 
